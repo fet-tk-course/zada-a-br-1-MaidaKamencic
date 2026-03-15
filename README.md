@@ -11,6 +11,11 @@ GitHub username:MaidaKamencic
 
 ---
 
+## Uvod
+
+Zovem se Maida Kamenčić i imam 23 godine. Dolazim iz Turije, a studentica sam treće godine Fakulteta elektrotehnike, smjer Telekomunikacije i infromacione tehnologije.
+
+
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
